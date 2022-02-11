@@ -17,9 +17,10 @@ Shown below are some of the possible inputs. Notice how the case size of the uni
 Output(s):
      The program takes the input data and solves the equation requested in the input. The equation may be solved in different ways for example both v = IR and I = v/R.  The program outputs the value from the requested equation that is missing from the input. The program itself is able to determine which value is missing and then conduct the proper transformation of the input values in order to calculate this missing value.
 The shown outputs are the outputs which would be printed out for each of their respective inputs in the above section.
-         1.  R =  442.321302  Ohms
-         2.  I =  0.001181  Amps
-         3.  I =  1.181102  Amps
+
+               1.  R =  442.321302  Ohms
+               2.  I =  0.001181  Amps
+               3.  I =  1.181102  Amps
       
       
  -  Two basic formulas are used in this program: Ohms Law: V = I * R , and the Cutoff Frequency Equation: Fc = 1/(2piRC). 
